@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.iu.habahram</groupId>
-	<artifactId>lab6</artifactId>
-	<version>0.0.1</version>
+	<artifactId>ducks-service</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>ducks-service</name>
 	<description>Ducks service for duck pond simulations</description>
 	<properties>
